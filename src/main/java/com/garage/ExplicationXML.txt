@@ -1,0 +1,13 @@
+  Espace de nom: galilee
+noeud racine de l'espace de nom: xmlns
+valeur de l'espace de nom : "http://www.galilee.org/cours-xml"   
+< <!--galilee:marin  id="12" 
+	 xmlns:galilee="http://www.galilee.org/cours-xml">
+	 
+	 Ensuite, les éléments de notre document ont été préfixés par galilee:, de façon à les attacher à l’espace de noms que l’on vient de définir.
+	 
+	
+	 <galilee:nom>Surcouf</galilee:nom>
+	 <galilee:prenom>Robert</galilee:prenom>
+	 <galilee:remarque  lang="FR">Capitaine corsaire</galilee:remarque>
+ </galilee:marin> 
